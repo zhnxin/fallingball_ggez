@@ -1,0 +1,9 @@
+[package]
+name = "fallingballcolor"
+version = "0.1.0"
+authors = ["zhengxin <zhngxin@aliyun.com>"]
+
+[dependencies]
+ggez="*"
+gfx="*"
+rand="*"
